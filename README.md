@@ -1,7 +1,7 @@
 # JIO Module
 ## For JIO Hardware
--Including JIO.EXE Windows Software
--Including JIO Module User Manual 
+- Including JIO.EXE Windows Software
+- Including JIO Module User Manual 
 # JI2C Module
 ## For JI2C Hardware
 - Including JI2C.EXE Windows Software
